@@ -12,7 +12,7 @@ packages = [
 ]
 setup(
     name="nextcord-ext-app-cmd-listener",
-    version="2022.04.02",
+    version="2022.05.08",
     description="An nextcord extension that helps you to listen for application commands invoke.",  # noqa: E501
     long_description=open("README.md").read(),
     url="",
