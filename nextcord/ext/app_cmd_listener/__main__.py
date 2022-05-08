@@ -1,4 +1,3 @@
-from disnake import application_command_factory
 from nextcord.ext import commands
 
 from nextcord import InteractionType
