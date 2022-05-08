@@ -1,6 +1,6 @@
 # nextcord-ext-app_cmd_listener
 
-| [PyPi](https://pypi.org/project/nextcord-ext-app-cmd-listener)
+| [PyPi](https://pypi.org/project/nextcord-ext-app-cmd-listener) | [GitHub](https://github.com/MaskDuck/nextcord-ext-app_cmd_listener/) |
 
 An extension to helps you listening to applications command.
 
